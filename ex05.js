@@ -15,4 +15,4 @@ console.log(leapYear(2023));
 console.log(leapYear(1992));
 console.log(leapYear(1900));
 
-// คล้ายๆข้อ4 dsadasdsa
+// คล้ายๆข้อ4 
