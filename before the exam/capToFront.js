@@ -19,6 +19,7 @@ function capToFront(str) {
     const upper = str.replace(/[^A-Z]/g, "");
     const lower = str.replace(/[A-Z]/g, "");
     return upper + lower;
+    
 }
 
 console.log(capToFront("hApPy"));
